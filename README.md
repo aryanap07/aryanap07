@@ -7,7 +7,7 @@
 <h3 align="center">The Current Frequency</h3>
 
 <p align="center">
-  <sub>A soundtrack to the work, the learning, and everything in between.</sub>
+  <sub>A soundtrack for building, learning, and everything in between.</sub>
 </p>
 
 <p align="center">
