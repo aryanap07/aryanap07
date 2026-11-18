@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://aryan29.xyz">
+    <strong>aryan29.xyz &#x2197;&#xFE0E;</strong>
+  </a>
+</p>
+
 <h3 align="center">The Current Frequency</h3>
 
 <p align="center">
