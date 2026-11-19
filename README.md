@@ -1,8 +1,7 @@
-<h4 align="center">
-  <a href="https://aryan29.xyz">
-    aryan29.xyz &#x2197;&#xFE0E;
-  </a>
-</h4>
+<h4 align="center"><a href="https://aryan29.xyz">aryan29.xyz &#x2197;&#xFE0E;</a></h4>
+  
+    
+
 
 <h3 align="center">The Current Frequency</h3>
 
