@@ -7,7 +7,7 @@
 <h3 align="center">The Current Frequency</h3>
 
 <p align="center">
-  <em>Somewhere between a melody and a memory.</em>
+  <em>Where positive energy meets endless possibility.</em>
 </p>
 
 <p align="center">
