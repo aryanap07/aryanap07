@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <em>For ideas worth building, questions worth asking, and work worth sharing: <a href="mailto:aryan.timeless@proton.me">aryan.timeless@proton.me</a></em>
+  <em>Have an idea taking shape, a question on your mind, or a project to explore together? I'd love to hear from you. <a href="mailto:aryan.timeless@proton.me">Write to me</a>.</em>
 </p>
