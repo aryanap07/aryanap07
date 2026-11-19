@@ -27,3 +27,7 @@
     />
   </picture>
 </p>
+
+<p align="center">
+  <em>For ideas worth building, questions worth asking, and work worth sharing: <a href="mailto:aryan.timeless@proton.me">aryan.timeless@proton.me</a></em>
+</p>
